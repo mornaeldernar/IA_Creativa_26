@@ -1,4 +1,4 @@
----
+###
 🚀 **¡Inicia a tus hijos en el fascinante mundo de la Ciencia con IA!** 🚀
 
 👧👦 **Fomentando la Educación Científica con Inteligencia Artificial en Niños de 8 a 10 Años** 👧👦
@@ -7,7 +7,7 @@
 
 👉 **Lee el artículo completo aquí**: [Enlace al Artículo]
 
----
+###
 
 🔍 **Hashtags:**
 #CienciaParaNiños #InteligenciaArtificial #EducaciónInnovadora #TecnologíaEnEducación #PadresYEducadores
